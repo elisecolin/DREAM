@@ -30,5 +30,5 @@ Syntax highlighted code block
 ### Urban areas
 
 
-### Trames vertes
+### Urban Green Frames
 
